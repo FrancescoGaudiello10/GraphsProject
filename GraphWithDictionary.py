@@ -12,7 +12,6 @@
     e -> c
     e -> b
 """
-
 from collections import defaultdict
 
 
@@ -31,7 +30,7 @@ class GraphDictionary(object):
             # for each neighbour node in a single node
             for neighbour in graph[node]:
                 # if edge exists, append
-                edges.append(neighbour)
+                edges.append((node, neighbour))
         return edges
 
 
