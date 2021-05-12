@@ -4,6 +4,8 @@ Riferimenti:
 - https://www.meccanismocomplesso.org/programming-graphs-in-python-part-1-grafi/ (Teoria)
 - https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/ (Contiene la sezione "PROBLEMS" per esercizi)
 - https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/ (Rappresentazioni)
+- https://likegeeks.com/depth-first-search-in-python/ (DFSs Python)
+
 
 Utils: 
 - https://www.youtube.com/watch?v=09_LlHjoEiY
