@@ -17,13 +17,12 @@ graph.add_edge('G', 'I')                                                 # compo
 nx.draw(graph, with_labels=True, font_weight="bold")
 # plt.show()
 
-def find_connected_compponents(graph):
+def find_connected_components(graph):
     visited = []
     connected_components = []
 
     for node in graph.nodes():
         if node not in visited:
-
             cc = []     # Connected component
             visited, cc = dfs_traversal(graph, node, visited, cc)
             connected_components.append(cc)
@@ -41,7 +40,7 @@ def dfs_traversal(graph, start, visited, path):
 
 
 if __name__ == '__main__':
-    connected_components = find_connected_compponents(graph)
+    connected_components = find_connected_components(graph)
     print("Total number of connected components = ", len(connected_components))
     for cc in connected_components:
         print(cc)
