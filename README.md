@@ -11,3 +11,5 @@ Utils:
 - https://www.youtube.com/watch?v=09_LlHjoEiY
 - https://github.com/search?l=Python&q=graphs&type=Repositories
 - https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf
+- https://networkx.org/documentation/latest/reference/introduction.html
+
