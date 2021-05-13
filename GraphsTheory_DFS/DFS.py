@@ -20,7 +20,6 @@ graph_rec = {
     "F": ["J"]
 }
 
-
 def dfs_non_recursive(graph, source):
 
     if source is None or source not in graph:
@@ -49,6 +48,7 @@ def dfs_non_recursive(graph, source):
 # E' possibile usare un approccio problem-solving utilizzando la ricorsione.
 # Se il nodo è già visitato, torna indietro
 
+
 def recursive_dfs(graph, source, path=[]):
     if source not in path:
         path.append(source)
@@ -61,6 +61,14 @@ def recursive_dfs(graph, source, path=[]):
             path = recursive_dfs(graph, neighbour, path)
 
     return path
+
+
+# 3. Depth First Search on a Binary Tree
+# Un albero è uno speciale grafo dove i nodi hanno o due figli o nessuno.
+# Una delle importanti proprietà dell'albero è che il figlio di sinistra è sempre minore o uguale del nodo padre
+# mentre il figlio di destra a sua volta è sempre maggiore o uguale del nodo padre.
+
+
 
 if __name__ == '__main__':
     print("Non Recursive:")
