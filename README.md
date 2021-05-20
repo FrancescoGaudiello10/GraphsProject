@@ -16,3 +16,10 @@ Utils:
 - https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf
 - https://networkx.org/documentation/latest/reference/introduction.html
 
+TO DO: 
+- https://open.kattis.com/problems/dungeon/statistics
+- https://www.youtube.com/watch?v=LbC0ejgACkE
+- https://www.youtube.com/watch?v=9PC2r6MAw1Q
+
+
+
