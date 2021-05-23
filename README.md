@@ -8,18 +8,15 @@ Riferimenti:
 - https://likegeeks.com/depth-first-search-in-python/#The_Depth_First_Search_Algorithm
 - https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
 - https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
-
+- https://open.kattis.com/problems/dungeon/statistics
+- https://www.youtube.com/watch?v=9PC2r6MAw1Q
+- https://www.geeksforgeeks.org/topological-sorting/
 
 Utils: 
 - https://www.youtube.com/watch?v=09_LlHjoEiY
 - https://github.com/search?l=Python&q=graphs&type=Repositories
 - https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf
 - https://networkx.org/documentation/latest/reference/introduction.html
-
-TO DO: 
-- https://open.kattis.com/problems/dungeon/statistics
-- https://www.youtube.com/watch?v=LbC0ejgACkE
-- https://www.youtube.com/watch?v=9PC2r6MAw1Q
 
 
 
